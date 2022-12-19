@@ -1,0 +1,20 @@
+.text-aligned {
+  text-align: center;
+}
+
+.formcomponents-centered{
+  margin-left: 33vw;
+  margin-right: 33vw;
+}
+
+.component-maxwidth{
+  max-width: 33vw;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+
+}
